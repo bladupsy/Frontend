@@ -1,6 +1,7 @@
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+This project was generated with: [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+[Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) version 4.5
 
 ## Development server
 
